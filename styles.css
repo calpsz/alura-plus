@@ -94,15 +94,14 @@ body {
     padding: 2em;
 }
 
-.terciario {
+.dispositivos {
     height: 100vh;
     text-align: center;
 }
 
-.container__terciario {
+.dispositivos__lista {
     display: flex;
     justify-content: center;
-    gap: 1em;
-    align-items: center;
-    margin-top: 2em;
+    margin: 5em 0;
+    list-style-type: none;
 }
